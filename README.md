@@ -12,7 +12,7 @@ Resolution Action Updated Date | Date and time 311 complaint began to be address
 
 ## Questions
 
-Please answer the following. You should publish your response in a Git repository or send via email to [john.wiley@dowjones.com](mailto:john.wiley@dowjones.com). Answers can be presented in either a Jupyter notebook (preferred), a markdown file, or a pdf.
+Please answer the following. You should send a zipped version of the repository with your solutions via email to [john.wiley@dowjones.com](mailto:john.wiley@dowjones.com). Answers can be presented in either a Jupyter notebook (preferred), a markdown file, or a pdf.
 
 1. What are the five most frequent descriptors of complaints? What are they by borough?
 
